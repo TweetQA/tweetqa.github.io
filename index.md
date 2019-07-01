@@ -4,7 +4,7 @@ layout: default
 
 # Leaderboard
 
-| Model (Affiliation)| Date           | BLEU-1 | METEOR | ROUGE-L | Code |
+| Model (Affiliation)| Date           | BLEU<sub>1</sub> | METEOR | ROUGE<sub>L</sub> | Code |
 |:-------------------|:---------------|:-------|:-------|:--------|:-----|
 | Human              | 07/01/2019     |   78.2 | 66.7   | 73.5    | N/A  |
 | Extract-UB         | 07/01/2019     |   80.3 | 69.8   | 75.6    | N/A  |
