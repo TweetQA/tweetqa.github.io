@@ -5,7 +5,7 @@ pre {
   background-color: #fff;
   line-height: 1.5em;
   font-size: 1em;
-  border: 2px solid #11498A;
+  border: 2px solid #FF9300;
   color: #555;
 }
 #header {
@@ -22,7 +22,7 @@ pre {
 #header-desc {
     margin-top: 0rem;
     font-weight: normal;
-    color: #11498A;
+    color: #FFCF37;
     text-align: center;
     line-height: 8rem;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;

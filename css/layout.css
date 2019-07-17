@@ -133,27 +133,27 @@
   font-size: 1.6em;
 }
 .actionBtn:hover {
-  background-color: #13355D;
-  border-color: #13355D;
+  background-color: #FF9300;
+  border-color: #FF9300;
 }
 .actionBtn {
   display: block;
   margin: 10px auto;
   max-width: 350px;
   width: 100%;
-  background-color: #25589E;
+  background-color: #FFCF37;
   color: #fff !important;
   text-align: center;
   font-size: 1em;
   font-weight: 600;
-  border: 2px solid #25589E;
+  border: 2px solid #FFCF37;
   border-radius: 20px;
   transition: all 0.5s;
   white-space: normal;
 }
 .inverseBtn {
   background-color: #fff;
-  color: #25589E !important;
+  color: #FFCF37 !important;
 }
 .inverseBtn:hover {
   color: #fff !important;
@@ -177,7 +177,7 @@ button:focus {
 }
 #topNavbar {
   border: none;
-  background: #13355D;
+  background: #FF9300;
   margin-bottom: 0px;
 }
 #topNavbar .leftNav {
@@ -238,7 +238,7 @@ button:focus {
   }
 }
 #topCover {
-  background: #25589E;
+  background: #FFCF37;
   box-shadow: 0px -10px 20px 2px rgba(120,120,120,0.2) inset;
   min-height: initial;
 }
@@ -316,13 +316,13 @@ body {
   background-color: #fff;
 }
 a {
-  color: #25589E;
+  color: #FFCF37;
 }
 a:hover,
 a:active,
 a:focus {
   text-decoration: none !important;
-  color: #13355D;
+  color: #FF9300;
 }
 ul {
   margin: 0px;
